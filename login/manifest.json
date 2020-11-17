@@ -1,0 +1,18 @@
+{
+  "name" : "Appy School",
+  "short_name" : "Appy School",
+  "description" : "Your No.1 Integrated School System",
+  "start_url" : "../login/",
+  "background_color" : "#009688",
+  "theme_color" : "#009688",
+  "lang" : "en-US",
+  "display" : "standalone",
+  "orientation" : "portrait",
+  "scope" : "../login/",
+  "icons" : [
+    {
+      "src": "../assets/image/logo.png",
+      "sizes": "256x256"
+    }
+  ]
+}
